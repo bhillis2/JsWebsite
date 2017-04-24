@@ -1,0 +1,52 @@
+body{
+background-image: url("niceBackground.jpeg");
+background-size: cover;
+
+}
+.container-fluid{
+  background-color: white;
+  padding-top: 50px;
+  height: 100%;
+
+}
+.form-group{
+
+  padding: 2px;
+  margin-left: 15%;
+margin-right: 15%;
+  background-color: rgb(73, 72, 69);
+}
+header{
+  background-color: black;
+  height: 80px;
+}
+
+header h1{
+color:white;
+background-color: black;
+margin-left: 30%;
+margin-right: 30%;
+
+
+}
+header button{
+  background-color:cream;
+}
+#links{
+position: relative;
+top:20px;
+left:400px;
+}
+form{
+text-align: center;
+padding-top: 65px;
+background-color: dimgrey;
+}
+.innerFooter{
+  height: 120px;
+  background-color:black;
+text-align: center;
+padding-top: 35px;
+color:white;
+
+}

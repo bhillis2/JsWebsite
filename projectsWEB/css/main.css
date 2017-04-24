@@ -1,0 +1,91 @@
+@media screen and (min-device-height: 412px) and (max-device-width: 732px) {
+.container{
+  background-color:black;
+}
+}
+body{
+background-image: url("niceBackground.jpeg");
+background-size: cover;
+
+}
+.container{
+background-color: black;
+
+}
+.top{
+  height: 150px;
+  background-color:white;
+  padding-top: 10px;
+}
+.middle{
+  height: 550px;
+  background-color:black;
+  padding-top: 18px;
+}
+.bottom{
+  font-size: 19px;
+  text-align: center;
+  height: 250px;
+  background-color: ;
+  padding-top: 10px;
+}
+
+.innerMiddle{
+  margin:8px;
+  border-radius: 35px;
+  border-color: white;
+  border-width: thick;
+  border-style:double;
+  background-color:dimgrey;
+  height: 680px;
+}
+.innerFooter{
+  height: 120px;
+
+
+}
+.innerMiddleMiddle{
+  height: 386px;
+  border-radius: 25px;
+  margin: 2px;
+
+  background-color: black;
+}
+
+header h1{
+color:white;
+
+height: 80px;
+}
+
+.mySlides{
+
+
+
+}
+.butt{
+height: 35px;
+width: 50px;
+background-color:;
+position: relative;
+top:20px;
+left:495px;
+
+}
+.buttonz{
+  color:black;
+}
+
+#leftO{
+  float:left;
+}
+#rightO{
+
+}
+.name{
+  color:white;
+  background-color: black;
+  text-align: center;
+  height: 140px;
+
+}

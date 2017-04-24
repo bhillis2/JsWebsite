@@ -1,0 +1,78 @@
+#links{
+
+  background-color: grey;
+}
+body{
+  background-image: url("niceBackground.jpeg");
+  background-size: cover;
+    height: 100vh;
+}
+head{
+height: 100vh;
+}
+h1{
+  background-color: black;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+header h1{
+color:white;
+
+}
+button{
+  background-color: white;
+
+  border-style:double;
+  border-width: thick;
+  border-color: black;
+  position: relative;
+  top:45px;
+  left:45px;
+}
+.second{
+
+top:650px;
+
+
+}
+.scroll{
+
+	color:white;
+	margin: 20px 0 20px 0;
+	padding: 35px;
+	font-size: 35px;
+}
+
+
+.first_skill{
+  height: 600px;
+  background-color: black;
+
+margin: 55px 5px 40px 5px;
+}
+.insideFirst_skill{
+height: 580px;
+position: relative;
+top:10px;
+border: 20px solid black;
+
+background-color: dimgrey;
+
+}
+.insideFirst_skill h3, ul, li,h4,h5{
+  text-align: center;
+
+}
+.insideFirst_skill p{
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+.insideFirst_skill h4{
+padding-top: 25px;
+
+}
