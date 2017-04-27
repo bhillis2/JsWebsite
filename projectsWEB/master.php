@@ -19,10 +19,11 @@
     </div>
     <!--never have a col class within a col class-->
     <div class="row">
-          <div class="col-xs-12 col-md-8 col-lg-4">
-            <a class="btn btn-default" href="photoGallery.html">photo gallery</a>
-            <a class="btn btn-default" href="contact.html">contact</a>
-            <a class="btn btn-default" href="skillSet.html">Skillset</a>
+          <div class="col-xs-12">
+          	<a class="btn btn-default" href="index.php">Home</a>
+            <a class="btn btn-default" href="photoGallery.php">photo gallery</a>
+            <a class="btn btn-default" href="contact.php">contact</a>
+            <a class="btn btn-default" href="skillSet.php">Skillset</a>
           </div>
     </div>
 
@@ -30,14 +31,3 @@
       <div class="col-lg-12 second">
         <div class="scroll">
           <marquee behavior="scroll" direction="left">Kokomo,IN.......Free Estimates.......Call for your free quote today!!!!......</marquee>
-
-
-        </div>
-      </div>
-    </div>
-
-
-  </div>
-</body>
-
-</html>
