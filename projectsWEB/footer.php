@@ -10,6 +10,8 @@
             </div>
   </div>
 </div>
+
+<script src="javascript/myjs.js"></script>
 </body>
 
 </html>
