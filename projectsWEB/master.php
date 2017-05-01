@@ -14,7 +14,7 @@
     <div class="row">
       <!--Always start with xs sizing, then change for larger sizes if needed-->
       <div class="col-xs-12">
-          <h1>J's Home Improvement</h1>
+          <h1>J's Home Improvement company</h1>
       </div>
     </div>
     <!--never have a col class within a col class-->
